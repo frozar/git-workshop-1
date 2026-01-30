@@ -3,9 +3,11 @@
 **Objectif** : modifier la branche principale de votre dépôt à l'aide de branches et de merges.
 
 Instructions
- - 1 personne du groupe fork ce dépôt principal
- - la personne qui crée le fork doit ajouter ces collègues comme collaborateur du dépôt
- - les collaborateurs récupèrent le dépôt forké
+ - 1 personne du groupe utilise ce dépôt principal comme template
+<img width="1748" height="301" alt="use-template-repository" src="https://github.com/user-attachments/assets/3e468099-7458-40da-875f-4b256a4876ed" />
+
+ - la personne qui crée le dépôt à partir du template doit ajouter ces collègues comme collaborateur du dépôt
+ - les collaborateurs récupèrent le dépôt nouvellement créé
  - chaque collaborateur crée une branche au format `prenom-nom` à partir du commit initial
  - à partir de sa branche `prenom-nom`, chaque collaborateur va ajouter son prénom/nom à la liste des auteurs dans le fichier `authors.txt` dans un commit
  - à tour de rôle :
