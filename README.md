@@ -54,7 +54,7 @@ merges avec des branches locales pour intégrer vos contributions à la branche
 principale.
 
 **Remarque 1** : Lorsque que vous mergez une branche sur la branche principale locale,
-vous n'avez plus besoin de la branche mergé. Vous pouvez supprimer des branches 
+vous n'avez plus besoin de cette branche mergée. Vous pouvez supprimer des branches 
 locales avec la commande `git branch -d <nom-de-branche>`.
 
 **Remarque 2** : Cette méthode ne vous permet pas de faire de revu de code. Avant
