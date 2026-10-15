@@ -15,7 +15,7 @@ Instructions
    2. les collaborateurs qui n'ont pas fait la propagation doivent mettre à jour leur branche `main` locale avant de faire leur merge, reprendre l'étape 'i.'
  - à la fin de l'activité, le dépôt du groupe devrait avoir :
    - un historique de commits avec des ponts qui représentent les différents merges
-   - une la branche principale et les branches de développement
+   - une branche principale et les branches de développement
 
 Pour se faire, vous aurez besoin de l'ensemble des savoirs du workshop 0, plus les commandes git suivantes :
  - **branch** : lister les branches locales
